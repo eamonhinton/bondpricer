@@ -1,2 +1,2 @@
 # bondpricer
-Speed-focused bond pricer written in rust. < 355 microseconds per.
+Speed-focused bond pricer written in Rust. < 152 microseconds per.
